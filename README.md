@@ -192,4 +192,4 @@ CMD ["npm", "start"]
 
 [Docker Compose Tutorial](https://www.youtube.com/watch?v=HG6yIjZapSA)
 
-[Presentaciones de Google: inicio de sesión](https://docs.google.com/presentation/d/1O64Ec0uLEJiNhhBrtfDgsqU3K04oV9ebhNgsFZwVYgg/edit#slide=id.p)
+[Docker para Node - Junior](https://docs.google.com/presentation/d/1O64Ec0uLEJiNhhBrtfDgsqU3K04oV9ebhNgsFZwVYgg/edit#slide=id.p)
